@@ -2,4 +2,4 @@
 1
 2
 3
-p back_testing Back-Testing for Forecasting Evaluation Use back_testing With STATA 19
+p xtthreshold threshold estimation for interactive fixed effects models Use xtthreshold With STATA 19
