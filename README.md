@@ -1,6 +1,8 @@
 # xtthreshold
 threshold estimation for interactive fixed effects models Use xtthreshold With STATA 19
 
+https://www.youtube.com/watch?v=z2lCw82lGo4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
